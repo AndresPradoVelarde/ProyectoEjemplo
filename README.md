@@ -1,4 +1,4 @@
 # ProyectoEjemplo
 Mi primer repositorio de Github
 
-Autor: Andrés Prado Velarde
+Autor: Andrés Prado Velarde, Domenica Silva Litardo
